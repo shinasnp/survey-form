@@ -1,0 +1,7 @@
+1. A PNG image of the app flow design details is added.
+
+2. A PNG image of the ER diagram is added.
+
+3. Postman collection for API's - https://www.getpostman.com/collections/9f63c13311927befe75e
+
+Note: Not all the flow is added in the test project. But most of the details are added in the diagrams mentioned above.

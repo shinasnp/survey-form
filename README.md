@@ -26,3 +26,9 @@ This project enables users to dynamically create survey forms, allowing distinct
     User Interaction: Users fill out the survey, providing responses based on the defined questions and logic.
 
     Result Analysis: The customer reviews survey results, leveraging the system's analytical capabilities.
+
+
+Note: 
+1. A PNG image of the app flow design details is added.
+
+2. A PNG image of the ER diagram is added.
